@@ -1,0 +1,7 @@
+gradio
+roboflow
+opencv-python
+pillow
+numpy
+torch
+transformers
