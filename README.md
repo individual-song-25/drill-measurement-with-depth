@@ -38,7 +38,7 @@ pip install torch transformers
 
 ```
 gradio_app_with_roboflow.py   # main application
-depth_model.py                # Depth Anything V2 wrapper (optional)
+depth_model.py                # Depth Anything V2 wrapper
 ```
 
 ---
