@@ -1,4 +1,4 @@
-# Drill Scanner – Dekracoating
+# Drill Scanner – Dekracoat
 
 A Gradio web application that detects industrial drills in photos, measures their real-world dimensions in millimetres, and displays an annotated image. Detection is powered by a Roboflow instance segmentation model. An optional depth correction step using Depth Anything V2 improves height accuracy when drills are at varying distances from the camera.
 
@@ -18,7 +18,7 @@ A Gradio web application that detects industrial drills in photos, measures thei
 ## Requirements
 
 - Python 3.9 or higher
-- A Roboflow account with the Dekracoating project (version 4)
+- A Roboflow account with the Dekracoat project (version 4)
 
 Install dependencies:
 
